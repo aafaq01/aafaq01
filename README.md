@@ -1,5 +1,4 @@
-# Aafaq-Rana
-Hello 👋 Aafaq Here!
+#Hello 👋 Aafaq Here!
 
 I am interested AI, Application, Game and Web Development ❤️ 
 
